@@ -8,7 +8,8 @@ class TextFielddAndButton extends Component{
   handleSubmitButton = (event) => {
     event.preventDefault()
     const data = this.state
-    console.log("The name submitted is", data)
+    console.log(data.fullName)
+    alert(data.fullName)
   }
 
   handleInput = (event) => {
