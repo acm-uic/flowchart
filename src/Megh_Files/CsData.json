@@ -1,0 +1,457 @@
+[
+    {
+        "id" : 1,
+        "class": "CS 107",
+        "Prerequisite":  "MATH 180 or Enrolled",
+        "Description":  "Introduction to Computing and Programming",
+        "Credit Hours": "4 hour"
+
+    },
+    {
+        "id" : 2,
+        "class": "CS 109",
+        "Prerequisite":  "MATH 180 or Enrolled",
+        "Description":  " Programming for Engineers with MatLab",
+        "Credit Hours": "3 hour"
+
+    },
+    {
+        "id" : 3,
+        "class": "CS 110",
+        "Prerequisite":  "CS 107 or CS 111 or appropriate score on the department placement test.",
+        "Description":  " MATLAB Programming for Engineers",
+        "Credit Hours": "1 hour"
+
+    },
+    {
+        "id" : 4,
+        "class": "CS 111",
+        "Prerequisite": null,
+        "Description":  "Program Design I",
+        "Credit Hours": "3 hour"
+
+    },
+    {
+        "id" : 5,
+        "class": "CS 112",
+        "Prerequisite":  null,
+        "Description":  "Program Design I in the Context of Biological Problems",
+        "Credit Hours": "3 hour"
+
+    },
+    {
+        "id" : 6,
+        "class": "CS 113",
+        "Prerequisite":  "CS 107 or CS 111 or appropriate score on the department placement test.",
+        "Description":  "Program Design I in the Context of Law and Public Policy",
+        "Credit Hours": "3 hour"
+
+    },
+    {
+        "id" : 7,
+        "class": "CS 114",
+        "Prerequisite":  "CS 109 or CS 111; and credit or concurrent registration in MATH 180",
+        "Description":  "Program Design II",
+        "Credit Hours": "3 hour"
+
+    },
+    {
+        "id" : 8,
+        "class": "CS 151",
+        "Prerequisite":  "MATH 180; and Grade of C or better in CS 111",
+        "Description":  "Mathematical Foundations of Computing",
+        "Credit Hours": "3 hour"
+
+    },
+    {
+        "id" : 9,
+        "class": "CS 201",
+        "Prerequisite":  "MATH 180; and grade of C or better in CS 102 or grade of C or better in CS 107",
+        "Description":  "Data Structures and Discrete Mathematics I",
+        "Credit Hours": "4 hour"
+
+    },
+    {
+        "id" : 10,
+        "class": "CS 211",
+        "Prerequisite":  "Grade of C or better in CS 141; or Grade of C or better in CS 107.",
+        "Description":  "Programming Practicum",
+        "Credit Hours": "2 hour"
+
+    },
+    {
+        "id" : 11,
+        "class": "CS 251",
+        "Prerequisite":  "Grade of C or better in CS 141; and Grade of C or better in CS 151; and Credit or concurrent registration in CS 211",
+        "Description":  "Data Structures",
+        "Credit Hours": "4 hour"
+
+    },
+    {
+        "id" : 12,
+        "class": "CS 261",
+        "Prerequisite":  "Credit or concurrent registration in CS 211",
+        "Description":  " Machine Organization",
+        "Credit Hours": "3 hour"
+
+    },
+    {
+        "id" : 13,
+        "class": "CS 301",
+        "Prerequisite":  "Grade of C or better in CS 151; and Credit or concurrent registration in CS 251",
+        "Description":  "Languages and Automata",
+        "Credit Hours": "3 hour"
+
+    },
+    {
+        "id" : 14,
+        "class": "CS 341",
+        "Prerequisite":  " Grade of C or better in CS 211 and Grade of C or better in CS 251; and CS 261",
+        "Description":  "Programming Language Design and Implementation",
+        "Credit Hours": "3 hour"
+
+    },
+    {
+        "id" : 15,
+        "class": "CS 342",
+        "Prerequisite":  "Grade of C or better in CS 251 and Grade of C or better in CS 211",
+        "Description":  "Software Design",
+        "Credit Hours": "3 hour"
+
+    },
+    {
+        "id" : 16,
+        "class": "CS 361",
+        "Prerequisite":  "CS 251 and CS 261",
+        "Description":  "Systems Programming",
+        "Credit Hours": "3 hour"
+
+    },
+    {
+        "id" : 17,
+        "class": "CS 362",
+        "Prerequisite":  " CS 261",
+        "Description":  "Computer Design",
+        "Credit Hours": "3 hour"
+
+    },
+    {
+        "id" : 18,
+        "class": "CS 377",
+        "Prerequisite":  "CS 251",
+        "Description":  "Communication and Ethical Issues in Computing",
+        "Credit Hours": "3 hour"
+
+    },
+    {
+        "id" : 19,
+        "class": "CS 401",
+        "Prerequisite":  "Grade of C or better in MCS 360; or Grade of C or better in CS 202",
+        "Description":  " Computer Algorithms I",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 20,
+        "class": "CS 407",
+        "Prerequisite":  "CS 251",
+        "Description":  "Computational Finance",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 21,
+        "class": "CS 411",
+        "Prerequisite":  "CS 251",
+        "Description":  " Artificial Intelligence I",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 22,
+        "class": "CS 412",
+        "Prerequisite":  "CS 251; and IE 342 or STAT 381 or ECE 341; or consent of the instructor.",
+        "Description":  " Introduction to Machine Learning",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 23,
+        "class": "CS 415",
+        "Prerequisite":  "CS 202 or MCS 360; or consent of the instructor",
+        "Description":  " Computer Vision I",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 24,
+        "class": "CS 418",
+        "Prerequisite":  "CS 251 and STAT 381; or IE 342 or ECE 341.",
+        "Description":  " Introduction to Data Science",
+        "Credit Hours": "3 hour"
+
+    },
+    {
+        "id" : 25,
+        "class": "CS 421",
+        "Prerequisite":  "CS 301 or MCS 441",
+        "Description":  " Natural Language Processing",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 26,
+        "class": "CS 422",
+        "Prerequisite":  "CS 342.",
+        "Description":  " User Interface Design and Programming",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 27,
+        "class": "CS 424",
+        "Prerequisite":  "CS 251; or graduate standing; or consent of the instructo",
+        "Description":  "Visualization and Visual Analytics",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 28,
+        "class": "CS 425",
+        "Prerequisite":  "CS 251",
+        "Description":  " Computer Graphics I",
+        "Credit Hours": "0-4 hour"
+
+    },
+    {
+        "id" : 29,
+        "class": "CS 426",
+        "Prerequisite":  "CS 251 or consent of the instructor.",
+        "Description":  "Video Game Design and Development",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 30,
+        "class": "CS 427",
+        "Prerequisite":  "CS 251 or consent of the instructor.",
+        "Description":  " Creative Coding",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 31,
+        "class": "CS 428",
+        "Prerequisite":  "CS 342; or consent of the instructor.",
+        "Description":  " Virtual, Augmented and Mixed Reality",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 32,
+        "class": "CS 440",
+        "Prerequisite":  "CS 342",
+        "Description":  "Software Engineering I",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 33,
+        "class": "CS 441",
+        "Prerequisite":  "Grade of C or better in CS 341 or Grade of C or better in CS 342; and Grade of C or better in CS 361.",
+        "Description":  "Engineering Distributed Objects For Cloud Computing",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 34,
+        "class": "CS 442",
+        "Prerequisite":  "CS 440.",
+        "Description":  "Software Engineering II",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 35,
+        "class": "CS 450",
+        "Prerequisite":  "CS 361",
+        "Description":  "Introduction to Networking",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 36,
+        "class": "CS 455",
+        "Prerequisite":  "CS 340 and CS 450",
+        "Description":  "Design and Implementation of Network Protocols",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 37,
+        "class": "CS 461",
+        "Prerequisite":  "CS 361.",
+        "Description":  "Operating Systems Design and Implementation",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 38,
+        "class": "CS 463",
+        "Prerequisite":  "CS 361. Recommended Background: CS 461.",
+        "Description":  " Systems Performance and Concurrent Computing",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 39,
+        "class": "CS 466",
+        "Prerequisite":  "ECE 366 or CS 261",
+        "Description":  "Advanced Computer Architecture",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 40,
+        "class": "CS 468",
+        "Prerequisite":  "Credit or concurrent registration in CS 450; or consent of the instructor",
+        "Description":  "Network Security",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 41,
+        "class": "CS 473",
+        "Prerequisite":  "Grade of C or better in CS 301 or Grade of C or better in MCS 441; and Grade of C or better in CS 251 or Grade of C or better in MCS 360; and Grade of C or better in CS 261.",
+        "Description":  "Compiler Design",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 42,
+        "class": "CS 474",
+        "Prerequisite":  "CS 342",
+        "Description":  "Object-Oriented Languages and Environments",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 43,
+        "class": "CS 475",
+        "Prerequisite":  "CS 202; and consent of the instructor.",
+        "Description":  " Object-Oriented Programming",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 44,
+        "class": "CS 476",
+        "Prerequisite":  "MCS 360; or CS 341",
+        "Description":  "Programming Language Design",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 45,
+        "class": "CS 477.",
+        "Prerequisite":  "Consent of the instructor.",
+        "Description":  "Public Policy, Legal, and Ethical Issues in Computing, Privacy, and Security",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 46,
+        "class": "CS 478",
+        "Prerequisite":  "CS 342",
+        "Description":  " Software Development for Mobile Platforms",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 47,
+        "class": "CS 480",
+        "Prerequisite":  "CS 251",
+        "Description":  "Database Systems",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 48,
+        "class": "CS 484",
+        "Prerequisite":  "CS 341.",
+        "Description":  "Secure Web Application Development",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 49,
+        "class": "CS 485",
+        "Prerequisite":  "CS 385",
+        "Description":  " Networked Operating Systems Programming",
+        "Credit Hours": "4 or 5 hour"
+
+    },
+    {
+        "id" : 50,
+        "class": "CS 486",
+        "Prerequisite":  "Credit or concurrent registration in CS 385; and credit or concurrent registration in CS 450 or consent of the instructo",
+        "Description":  " Secure Operating System Design and Implementation",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 51,
+        "class": "CS 487",
+        "Prerequisite":  "Grade of C or better in CS 385; and senior standing or above; or consent of the instructor.",
+        "Description":  "Building Secure Computer Systems.",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 52,
+        "class": "CS 489",
+        "Prerequisite":  "Senior standing or above; or consent of the instructor; or senior majoring in communications or psychology",
+        "Description":  "Human Augmentics",
+        "Credit Hours": "3 or 4 hour"
+
+    },
+    {
+        "id" : 53,
+        "class": "CS 491",
+        "Prerequisite":  "Consent of the instructor.",
+        "Description":  "Seminar",
+        "Credit Hours": "1-4 hour"
+
+    },
+    {
+        "id" : 54,
+        "class": "CS 493",
+        "Prerequisite":  "Consent of the instructor",
+        "Description":  "Special Problems",
+        "Credit Hours": "2-4 hour"
+
+    },
+    {
+        "id" : 55,
+        "class": "CS 494",
+        "Prerequisite":  "Consent of the instructor",
+        "Description":  "Special Topics in Computer Science",
+        "Credit Hours": "1-4 hour"
+
+    },
+    {
+        "id" : 56,
+        "class": "CS 499",
+        "Prerequisite":  "Open only to seniors; and approval of the department. Must be taken in the student's last semester of study",
+        "Description":  "Professional Development Seminar",
+        "Credit Hours": "0 hour"
+
+    }
+    
+    
+
+
+
+
+
+]
